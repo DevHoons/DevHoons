@@ -3,6 +3,7 @@
 
 ### Profile
 
+-  **Languages :** [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/DevHoons/)]
 
 
 ![DevHoons github stats](https://github-readme-stats.vercel.app/api?username=DevHoons&show_icons=true)
