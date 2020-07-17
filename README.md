@@ -1,5 +1,11 @@
-### Hi there 👋
+## 안녕하세요. BackEnd 개발자를 준비 중인 양지훈 입니다. 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevHoons)](https://hits.seeyoufarm.com)
 
+### Profile
+
+
+
+![DevHoons github stats](https://github-readme-stats.vercel.app/api?username=DevHoons&show_icons=true)
 <!--
 **DevHoons/DevHoons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevHoons)](https://hits.seeyoufarm.com)
-![DevHoons github stats](https://github-readme-stats.vercel.app/api?username=DevHoons&show_icons=true)
