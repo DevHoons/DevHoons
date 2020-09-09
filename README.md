@@ -1,4 +1,4 @@
-## 안녕하세요. BackEnd 개발자를 준비 중인 양지훈 입니다. 👋
+## 안녕하세요. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevHoons)](https://hits.seeyoufarm.com)
 
 ### Info
